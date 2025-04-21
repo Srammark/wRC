@@ -1,16 +1,21 @@
+.wBlock {
+    width: 100%;
+    display: block
+}
+
 .wR_HS {
     width: 100%;
     justify-content: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSB {
     justify-content: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HC {
@@ -18,14 +23,14 @@
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCB {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HE {
@@ -33,14 +38,14 @@
     justify-content: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEB {
     justify-content: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSVS {
@@ -49,7 +54,7 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSVSB {
@@ -57,7 +62,7 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSVC {
@@ -74,7 +79,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSVE {
@@ -83,7 +88,7 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HSVEB {
@@ -91,7 +96,7 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCVS {
@@ -108,7 +113,7 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCVC {
@@ -117,7 +122,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCVCB {
@@ -125,7 +130,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCVE {
@@ -134,7 +139,7 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HCVEB {
@@ -142,7 +147,7 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEVS {
@@ -159,7 +164,7 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEVC {
@@ -168,7 +173,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEVCB {
@@ -176,7 +181,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEVE {
@@ -185,7 +190,7 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wR_HEVEB {
@@ -193,46 +198,46 @@
     align-items: flex-end;
     flex-direction: row;
     flex-wrap: wrap;
-    display: flex;
+    display: flex
 }
 
 .wC_HS {
     width: 100%;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSB {
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HC {
     width: 100%;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCB {
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HE {
     width: 100%;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEB {
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVS {
@@ -240,14 +245,14 @@
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVSB {
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVC {
@@ -255,14 +260,14 @@
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVCB {
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVE {
@@ -270,14 +275,14 @@
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HSVEB {
     justify-content: flex-end;
     align-items: flex-start;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVS {
@@ -285,14 +290,14 @@
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVSB {
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVC {
@@ -300,14 +305,14 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVCB {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVE {
@@ -315,14 +320,14 @@
     justify-content: flex-end;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HCVEB {
     justify-content: flex-end;
     align-items: center;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVS {
@@ -330,7 +335,7 @@
     justify-content: flex-start;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVSB {
@@ -338,7 +343,7 @@
     justify-content: flex-start;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVC {
@@ -346,14 +351,14 @@
     justify-content: center;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVCB {
     justify-content: center;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVE {
@@ -361,14 +366,14 @@
     justify-content: flex-end;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wC_HEVEB {
     justify-content: flex-end;
     align-items: flex-end;
     flex-direction: column;
-    display: flex;
+    display: flex
 }
 
 .wCrossSlide {
@@ -377,10 +382,10 @@
     overflow-y: hidden;
     -ms-overflow-style: none;
     overflow: -moz-scrollbars-none;
-    -webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch
 }
 
 .wCrossSlide::-webkit-scrollbar {
     display: none;
-    background-color: transparent;
+    background-color: transparent
 }
